@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+   text-decoration: none;
+}
+.first{
+    text-align: center ;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 16rem 0;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 120px;
+}
+.first h1{
+    color: #212529;
+    font-size: 80px;
+    margin-bottom: 5px;
+
+}
+.first h3{
+    color: #212529;
+    font-size: 25px;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+.first a{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #fff;
+}
+.second{
+    text-align: center;
+    margin-bottom: 120px;
+    
+}
+.second h2{
+    color: #212529;
+    font-size: 29.66px;
+    margin: 0 0 8px;
+}
+.second p {
+    color: #212529;
+    font-size: 17.5px;
+    margin: 0 0 48px;
+    
+}
+.a-unplash{
+    text-decoration: underline;
+    color: #1d809f;
+}
+
+.a-offer{
+    background-color: #212529;
+    padding: 20px 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    
+}
+.third{
+    text-align: center ;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 16rem 0;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 90px;
+    
+}
+.third h2{
+    color: #212529;
+    font-size: 56px;
+    margin-bottom: 65px;
+
+
+}
+.third a{
+    background-color: #1d809f;
+    padding: 20px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.fourth{
+    text-align: center;
+    background-color:#1d809f;
+    padding: 120px 0px;
+
+}
+.fourth h2{
+    color: #fff;
+    font-size: 29.66px;
+    margin: 0px 0px 24px;
+}
+
+.a-click{
+    background-color:#F9F9FA;
+    padding: 20px 40px;
+    margin: 0px 24px 0px 0px;
+    font-size: 16px;
+    border-radius: 5px;
+    color:#000000;
+    cursor: pointer;
+}
+.a-look{
+    background-color: #212529;
+    padding: 20px 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+.fifth iframe{
+    height: 518px;
+    width: 100%;
+}
